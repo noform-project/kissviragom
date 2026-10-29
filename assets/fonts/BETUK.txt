@@ -1,0 +1,9 @@
+Betűk (mind SIL Open Font License 1.1 – szabadon használható weboldalon is)
+
+- Parisienne 400            – kézírásos címek
+- Lora 400, 400 dőlt, 600    – folyószöveg
+- Oswald 500, 600            – címkék, árak
+
+Forrás: Google Fonts, a @fontsource npm-csomagokból letöltött woff2 fájlok
+(latin + latin-ext részhalmaz, hogy az ő/ű is jó legyen).
+A licenc: https://openfontlicense.org
